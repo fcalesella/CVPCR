@@ -46,7 +46,7 @@ labels = [label[1].replace('</label', '') for label in labels]
 atlas = atlas[mask>0]
 coefficient_map = coefficient_map[mask>0]
 
-# project teh data on each ROI and calculate statistics 
+# project the data on each ROI and calculate statistics 
 tracts = np.unique(atlas)
 results = np.zeros((len(tracts), 5))
 for tract_id in tracts:

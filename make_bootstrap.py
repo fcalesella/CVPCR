@@ -28,7 +28,7 @@ input_data = '/path_to_data/data.mat'
 covariates_data = '/path_to_confounders/covariates.csv'
 # define full path to target variable
 target_data = '/path_to_target/target.csv'
-# define full path to the estimated model
+# define full path to the estimated model on which bootstrap should be done
 model_name = '/path_to_output_directory/model.pkl'
 # define full path where to save bootstrap results
 save_results = '/path_to_output_directory/bootstrap.pkl'
