@@ -23,6 +23,7 @@ The code is organized in scripts that are used for different purposes. Each scri
 - scipy
 - sklearn
 - statsmodels
+
 **N.B.** the ```back_project_ci```, ```make_bootstrap```, ```make_model```, and ```make_permutations``` scripts requires to modify the path also in the section of the imports, since the path to the "utils" directory of the repository is needed to import the customized modules.
 
 ## 3. Usage <a name="Usage"></a>
