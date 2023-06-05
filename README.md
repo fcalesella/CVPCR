@@ -2,8 +2,8 @@
  Cross-Validated Principal Component Regression for voxelwise magnetic resonance imaging (MRI) images
  
 ## Table of Contents
-1. [Project Overview](#Project_Overview)\
-2. [Setup](#Setup)\
+1. [Project Overview](#Project_Overview)
+2. [Setup](#Setup)
 3. [Instructions](#Instructions)\
    3.1 [Script](#script)\
    3.2 [Function](#function)\
@@ -18,4 +18,5 @@ The repository provides the code for:
 - back-projection of regression weights in the original space through PCs and projection on atlases for statistical inference and interpretation of the neuroimaging results
 
 ## 2. Setup <a name="Setup"></a>
-The code is organized in scripts that are used for different purposes. Each script starts with the imports, and then there are all the needed inputs. Just download the repository and change the paths at the beginning of each script.
+The code is organized in scripts that are used for different purposes. Each script starts with the imports, and then there are all the needed inputs. Just download the repository and change the paths at the beginning of each script.\
+N.B. the  
